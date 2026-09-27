@@ -2,6 +2,7 @@
 
 This environment spins up 15 minimal Alpine Linux 3.19 virtual machines (node1 through node15) to test internal network traffic and routing.
 
+<img width="2296" height="1112" alt="Zrzut ekranu 2026-09-26 131017" src="https://github.com/user-attachments/assets/3795867c-42b9-49c7-a336-358d8350213d" />
 
 
 ## Setup
